@@ -7,7 +7,7 @@ This repo contains lecture slides, assignments, and materials for the course.
 
 | Week | Topic | Slides |
 |------|--------|---------|
-| 1 | **Introduction to Cyber Security** — covers *Overview*, *Key Components*, and *How It Works* | [Lecture 1](Week_01_Introduction/Lecture1_Introduction_to_CyberSecurity.pptx) |
+| 1 | **Introduction to Cyber Security** — covers *Overview*, *Key Components*, and *How It Works* | [Lecture 1] (Week_01_Introduction/Lecture # 01 - 02.pptx)  |
 | 2 | **Types of Cyber Security** — covers *Different Types of Cyber Security with Practical Examples* | [Lecture 2](Week_02_Types_of_CyberSecurity/Lecture2_Types_of_CyberSecurity.pptx) |
 | 3 | **Cyber Threat Landscape** — covers *Essential Security Concepts*, *Top Threats in Cyber Security*, and *Difference between Cyber Security & Information Security* | [Lecture 3](Week_03_Cyber_Threat_Landscape/Lecture3_Cyber_Threat_Landscape.pptx) |
 | 4 | **Network Basics** — covers *Data Transmission*, *Internet Fundamentals*, and *Basic Network Utilities* | [Lecture 4](Week_04_Network_Basics/Lecture4_Network_Basics.pptx) |
