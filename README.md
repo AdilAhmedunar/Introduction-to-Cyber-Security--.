@@ -1,6 +1,4 @@
-# 🛡️ Introduction to Cyber Security
-
-Welcome to the official repository for **Introduction to Cyber Security**.  
+# 🛡️ Introduction to Cyber Security  
 This repository contains lecture slides and materials for weekly topics.
 
 ---
