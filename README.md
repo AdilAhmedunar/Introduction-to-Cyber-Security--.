@@ -1,5 +1,5 @@
 # 🛡️ Introduction to Cyber Security  
-Lecture Slides for Cyber Security — Fall 2025 Edition
+Lecture Slides for Cyber Security — Fall 2025 Edition.
 This repository contains lecture slides and materials for weekly topics.
 
 ---
