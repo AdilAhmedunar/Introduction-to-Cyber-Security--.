@@ -23,6 +23,8 @@ This repository contains lecture slides and materials for weekly topics.
 16–17 | **Industrial Espionage in Cyberspace** — covers *Information as an Asset, Protection Techniques, Espionage Methods, DoS & DDoS Attacks.* | [Lecture 16–17 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_06_Lectures/Lecture%20%23%2016%20%26%2017%20Industrial%20Espionage%20in%20Cyberspace%20-%20DoS-DDoS%20Attacks.pptx)
 ## 📝 Midterm Examination
 | 18 | **CIA Properties, Encryption & Cryptography Overview** — covers *CIA Triad, Encryption Fundamentals, Caesar Cipher, Atbash Cipher, Rail Fence Cipher, and Binary Operations* | [Lecture 18 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_07_Lectures/Lecture%20%23%2018.pptx) |
+| 19–20 | **Modern Cryptography Methods** — covers *Cryptography Terminology, Symmetric Encryption, DES, and AES* | [Lecture 19–20 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_08_Lectures/Lecture%20%23%2019%20%26%2020.pptx) |
+
 
 
 
