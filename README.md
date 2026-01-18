@@ -21,6 +21,7 @@ This repository contains lecture slides and materials for weekly topics.
 | 13 | **Active & Passive Scanning Techniques** — covers *Basic Terminologies, Passive Reconnaissance Techniques, Active Network Scanning, ICMP Scanning, Port Scanning,* and *OS Fingerprinting.* | [Lecture 13 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_05_Lectures/Lecture%20%23%2013%20Basic%20Terminologies%2C%20Passive%20Scanning%20Techniques%20%26%20Active%20Scanning%20Techniques.pptx) |
 | 14-15 | **Actual Attacks & Modern Cyber Threat Landscape** — covers *SQL Injection, Defenses, XSS Attacks, Wireless Attacks, Cell Phone Attacks,* and *Dark Web Essentials.* | [Lecture 14 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_05_Lectures/Lecture%20%23%2014%20%26%2015%20Actual%20Attacks%20%26%20Modern%20Cyber%20Threat%20Landscape.pptx) |
 16–17 | **Industrial Espionage in Cyberspace** — covers *Information as an Asset, Protection Techniques, Espionage Methods, DoS & DDoS Attacks.* | [Lecture 16–17 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_06_Lectures/Lecture%20%23%2016%20%26%2017%20Industrial%20Espionage%20in%20Cyberspace%20-%20DoS-DDoS%20Attacks.pptx)
+## 📝 Midterm Examination
 
 
 
