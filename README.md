@@ -27,7 +27,7 @@ This repository contains lecture slides and materials for weekly topics.
 | 23–25 | **Virus Scanning & System Security Techniques** — covers *Virus Scanners, Signature‑Based Detection, Behavior‑Based Detection, Virus Scanning Techniques, How to Secure a System (6Ps), Securing Own System, Securing a Server, Securing a Network, and Vulnerability Scanners* | [Lecture 23–25 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_10_Lectures/Lecture%20%23%2023%20-%2025.pptx) |
 | 26–28 | **Privacy and Anonymity on the Internet** — covers *Privacy and Anonymity Importance, Layers of the Internet, Surface Web, Deep Web, Dark Web, and Tor Browser & Network* | [Lecture 26–28 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_11_Lectures/Lecture%20%23%2026%20-%2028.pptx) |
 | 29–30 | **Cyber Terrorism & Cyber Warfare** — covers *Cyber Terrorism, Cyber Terrorism vs. Cyber Espionage, Cyber Attacks in Modern Warfare, Actual Cases of Cyber Terrorism, Weapons of Cyber Warfare, Information Warfare, Future Trends in Cyber Warfare, and Defense Against Cyber Warfare* | [Lecture 29–30 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_12_Lectures/Lecture%20%23%2029%20-%2030.pptx) |
-
+| 31 | **Security Policies & Information Warfare** — covers *Security Policies, Types of Security Policies, Cyber Attacks in Modern Warfare, Actual Cases in Cyber Terrorism, and Information Warfare* | [Lecture 31 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_13_Lectures/Lecture%20%23%2031.pptx) |
 
 
 
