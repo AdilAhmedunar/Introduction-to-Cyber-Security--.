@@ -29,10 +29,8 @@ This repository contains lecture slides and materials for weekly topics.
 | 29–30 | **Cyber Terrorism & Cyber Warfare** — covers *Cyber Terrorism, Cyber Terrorism vs. Cyber Espionage, Cyber Attacks in Modern Warfare, Actual Cases of Cyber Terrorism, Weapons of Cyber Warfare, Information Warfare, Future Trends in Cyber Warfare, and Defense Against Cyber Warfare* | [Lecture 29–30 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_12_Lectures/Lecture%20%23%2029%20-%2030.pptx) |
 | 31 | **Security Policies & Information Warfare** — covers *Security Policies, Types of Security Policies, Cyber Attacks in Modern Warfare, Actual Cases in Cyber Terrorism, and Information Warfare* | [Lecture 31 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Introduction-to-Cyber-Security--./main/Week_13_Lectures/Lecture%20%23%2031.pptx) |
 
-
-
-
-
+**Course Support**
+Instructors may approach me for assignments, quizzes, presentation topics, lab/project guidance, and concept clarification related to the course.
 
 
 ## 👨‍🏫 Instructor
